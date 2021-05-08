@@ -23,20 +23,7 @@ public class WriteToCSV {
 				{
 					fileWriter.append(p.getFname());
 					fileWriter.append(",");
-					fileWriter.append(p.getLname());
-					fileWriter.append(",");
-					fileWriter.append(p.getStreet());
-					fileWriter.append(",");
-					fileWriter.append(p.getCity());
-					fileWriter.append(",");
-					fileWriter.append(p.getState());
-					fileWriter.append(",");
-					fileWriter.append(p.getCountry());
-					fileWriter.append(",");
-					fileWriter.append(p.getPhone());
-					fileWriter.append(",");
-					fileWriter.append(p.getZip());
-					fileWriter.append("\n");
+					
 				}
 			}
 			else
@@ -47,20 +34,7 @@ public class WriteToCSV {
 				{
 					fileWriter.append(p.getFname());
 					fileWriter.append(",");
-					fileWriter.append(p.getLname());
-					fileWriter.append(",");
-					fileWriter.append(p.getStreet());
-					fileWriter.append(",");
-					fileWriter.append(p.getCity());
-					fileWriter.append(",");
-					fileWriter.append(p.getState());
-					fileWriter.append(",");
-					fileWriter.append(p.getCountry());
-					fileWriter.append(",");
-					fileWriter.append(p.getPhone());
-					fileWriter.append(",");
-					fileWriter.append(p.getZip());
-					fileWriter.append("\n");
+					
 				}
 			}
 			
@@ -98,20 +72,7 @@ public class WriteToCSV {
 				{
 					fileWriter.append(p.getFname());
 					fileWriter.append(",");
-					fileWriter.append(p.getLname());
-					fileWriter.append(",");
-					fileWriter.append(p.getStreet());
-					fileWriter.append(",");
-					fileWriter.append(p.getCity());
-					fileWriter.append(",");
-					fileWriter.append(p.getState());
-					fileWriter.append(",");
-					fileWriter.append(p.getCountry());
-					fileWriter.append(",");
-					fileWriter.append(p.getPhone());
-					fileWriter.append(",");
-					fileWriter.append(p.getZip());
-					fileWriter.append("\n");
+					
 				}
 			}
 			else
@@ -122,20 +83,7 @@ public class WriteToCSV {
 				{
 					fileWriter.append(p.getFname());
 					fileWriter.append(",");
-					fileWriter.append(p.getLname());
-					fileWriter.append(",");
-					fileWriter.append(p.getStreet());
-					fileWriter.append(",");
-					fileWriter.append(p.getCity());
-					fileWriter.append(",");
-					fileWriter.append(p.getState());
-					fileWriter.append(",");
-					fileWriter.append(p.getCountry());
-					fileWriter.append(",");
-					fileWriter.append(p.getPhone());
-					fileWriter.append(",");
-					fileWriter.append(p.getZip());
-					fileWriter.append("\n");
+					
 				}
 			}
 			
@@ -174,20 +122,7 @@ public class WriteToCSV {
 				{
 					fileWriter.append(p.getFname());
 					fileWriter.append(",");
-					fileWriter.append(p.getLname());
-					fileWriter.append(",");
-					fileWriter.append(p.getStreet());
-					fileWriter.append(",");
-					fileWriter.append(p.getCity());
-					fileWriter.append(",");
-					fileWriter.append(p.getState());
-					fileWriter.append(",");
-					fileWriter.append(p.getCountry());
-					fileWriter.append(",");
-					fileWriter.append(p.getPhone());
-					fileWriter.append(",");
-					fileWriter.append(p.getZip());
-					fileWriter.append("\n");
+					
 				}
 			}
 			else
@@ -198,20 +133,7 @@ public class WriteToCSV {
 				{
 					fileWriter.append(p.getFname());
 					fileWriter.append(",");
-					fileWriter.append(p.getLname());
-					fileWriter.append(",");
-					fileWriter.append(p.getStreet());
-					fileWriter.append(",");
-					fileWriter.append(p.getCity());
-					fileWriter.append(",");
-					fileWriter.append(p.getState());
-					fileWriter.append(",");
-					fileWriter.append(p.getCountry());
-					fileWriter.append(",");
-					fileWriter.append(p.getPhone());
-					fileWriter.append(",");
-					fileWriter.append(p.getZip());
-					fileWriter.append("\n");
+					
 				}
 			}
 			
